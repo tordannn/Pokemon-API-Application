@@ -1,0 +1,15 @@
+.error-indicator {
+    margin: 0 auto;
+    color: #DF691A;
+    text-align: center;
+}
+
+.error-indicator span {
+
+    display: block;
+    font-size: 1.2rem;
+}
+
+.oops {
+    font-weight: bolder;
+}
